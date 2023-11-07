@@ -1,0 +1,1 @@
+console.log("successfuly Setup CodeSpace For Javascript");
